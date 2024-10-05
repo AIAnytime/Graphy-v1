@@ -32,7 +32,7 @@ Graphy v1 allows users to upload a PDF document, which is then processed to extr
 
 ## Demo
 
-[![Graphy v1 Demo](./screenshot.png)](https://youtu.be/your-video-link)
+[![Graphy v1 Demo](https://youtu.be/odtGLUPXqfs)
 
 *Click the image above to watch the demo video on YouTube.*
 
